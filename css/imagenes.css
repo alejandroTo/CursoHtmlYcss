@@ -1,0 +1,34 @@
+.divheader{
+	position: static;
+	background-color: #282923;
+	text-align: center;
+	top: 0px;
+	color: white;
+	font-size: xx-large;
+	font-family: 'consolas';
+	font-style: italic;
+}
+.divaside{
+	position: absolute;
+	top: 0px;
+	background-color: #68353E;
+	top: 11%;
+	height: 80%;
+}
+.divprinci{
+	display: table-cell;
+	position: relative;
+	background-color: red;
+	height: 40px;
+	width: 500px;
+
+	left: 90%;
+	top: 0px;
+}
+figure{
+	border-radius: 45%;
+	height: 150px;
+	overflow: hidden;
+	margin: 0;
+	width: 150px;
+}

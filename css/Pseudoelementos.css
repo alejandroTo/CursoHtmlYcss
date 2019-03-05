@@ -1,0 +1,37 @@
+h1::before{
+	content: "before";
+	background-color: orange;
+}
+h1::after{
+	content: "After";
+	background-color: blue;
+}
+h1::focus{
+	background-color: pink;
+}
+p::first-letter{
+	font-size: 36px;
+	color: blue;
+}
+p::first-line{
+	font-family: 'consolas';
+	font-size: xx-large;
+}
+legend:hover,legend::first-letter{
+	color: red;
+}
+input:focus{
+	color: blue;
+}
+.divformulario{
+	position: relative;
+	height: 40%;
+	left: 25%;
+	width: 30%;
+}
+.formulario,input{
+	display: block;
+}
+input:active{
+	color: orange;
+}
