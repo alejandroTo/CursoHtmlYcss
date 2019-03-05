@@ -1,0 +1,17 @@
+h3{
+	color: red;
+}
+.lista1{
+	color: blue;
+	font-family: 'lucida calligraphy';
+}
+.lista2{
+	color: red;
+	font-family: 'arial black';
+	font-style: italic;
+}
+.lista3{
+	font-family: 'consolas';
+	color: pink;
+	font-style: oblique;
+}
