@@ -1,0 +1,20 @@
+h2{
+	color: red;
+	font-family: 'consolas';
+	font-style: italic;
+	font-size: xx-large;
+}
+.tabla{
+	border-collapse: collapse;
+}
+th,tr,td{
+	 border: 1px solid #dddddd;
+	 text-align: center;
+	 padding: 3px;
+
+}
+.center{
+	position: absolute;
+	top: 2%;
+	left: 50%;
+}
